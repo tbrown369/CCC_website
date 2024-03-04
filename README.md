@@ -1,5 +1,6 @@
 # CCC_website
 
-This is my implementation of a website for mid-sized company Comfort Community Center LLC. I used Javascript, HTML, and CSS.
-
-Javascript uses for hamburger menu and faq accordion
+- Work in progress build for Comfort Community Center LLC's company website. 
+- Uses HTML, CSS, and Javascript
+- Submission upload feature located in careers page
+- FAQ and Hamburger menu (for mobile view) implemented using Javascript
