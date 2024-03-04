@@ -87,6 +87,45 @@ img {
     margin-bottom: 20px;
 }
 
+/* About Us Hero */
+.about_hero {
+    margin-bottom: 50px;
+}
+
+.about_hero .container  {
+    background: var(--primary-color);/*url('../CCC_images/CCC_group.jpeg') no-repeat;*/
+    background-size: contain;
+    background-position: center bottom;
+    height: 180px;
+}
+
+.about_hero .hero-content {
+    padding: 30px;
+    width: 70%;
+}
+
+.about_hero .hero-text {
+    width: 70%;
+    margin-bottom: 20px;
+}
+
+/* Bio */
+.bio {
+    margin-bottom: 50px;
+}
+
+.bio .container {
+    background: var(--light-color);
+    background-size: contain;
+    background-position: center bottom;
+    height: 300px;
+}
+
+.bio .bio-content {
+    padding: 10px;
+    width: 100%;
+}
+
 /* Video */
 .video {
     padding: 10px 0 40px;
